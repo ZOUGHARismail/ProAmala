@@ -1,0 +1,43 @@
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\Guna.UI2.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.csprojAssemblyReference.cache
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.Form2.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormGestionDeStock.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.Properties.Resources.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.csproj.GenerateResource.cache
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.csproj.CoreCompileInputs.cache
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.csproj.CopyComplete
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormAuthentification.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormGestionDeLocalite.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormGestionDeMarche.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormGesSortieInventaire.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportSource.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.Shared.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.Windows.Forms.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\FlashControlV71.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\ShockwaveFlashObjects.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\stdole.dll
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormImprimersStock.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormReportAll.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\WindowsFormsAmala_Vol3.GUI.FormImprimerSortier.resources
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\Gestion d'entrepôt.exe.config
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\Gestion d'entrepôt.exe
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\Gestion d'entrepôt.pdb
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\Gestion d'entrepôt.exe
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\Gestion d'entrepôt.pdb
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\Gestion d'entrepôt.exe.manifest
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\bin\Debug\Gestion d'entrepôt.application
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\Gestion d'entrepôt.exe.manifest
+M:\ismail\My_work\C#\WindowsFormsAmala_Vol3\WindowsFormsAmala_Vol3\obj\Debug\Gestion d'entrepôt.application
